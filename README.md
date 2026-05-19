@@ -1,4 +1,4 @@
-# Vossai Project
+# Task managment
 
 A full-stack web application built with Django REST Framework and React (Vite).
 
